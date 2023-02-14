@@ -1,2 +1,0 @@
-# RWJson
-Realworks JSON hosting
